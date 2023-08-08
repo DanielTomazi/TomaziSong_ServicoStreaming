@@ -1,2 +1,4 @@
-# TS_Song
-Aplicação back-end utilizada em um aplicativo de música
+**********************************************************************************************************
+Version 1.0
+Aplicação back-end para aplicativo de musica, o código ainda será expandido e o projeto ganhará mais corpo.
+**********************************************************************************************************
