@@ -4,3 +4,4 @@ Aplicação criada utilizando a linguagem de programação Java, a mesma se trat
 Version 1.0
 Aplicação back-end para aplicativo de musica, o código ainda será expandido e o projeto ganhará mais corpo.
 **********************************************************************************************************
+# Autor: Daniel Tomazi de Oliveira
